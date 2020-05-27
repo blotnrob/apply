@@ -1,5 +1,5 @@
 <template>
-  <div class="button">das ist ein button</div>
+  <div class="button">das ist ein asdfbutton</div>
 </template>
 
 <script>
